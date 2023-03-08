@@ -1,16 +1,17 @@
-### Hi there 👋
+### 저는 신명준 입니다 ! ☺️
 
-<!--
-**smj0207/smj0207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+저는 성일정보고등학교 3학년14반에 재학중입니다 🏫
 
-Here are some ideas to get you started:
+제 **취미** 생활은 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1.게임하기 🎮<br>
+2.노래듣기 🔈<br>
+3.잠자기 🛌
+
+입니다!
+
+저는 고양이를 키웁니다 ! 🐈
+
+이상입니다 😊
+
+
